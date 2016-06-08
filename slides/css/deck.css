@@ -22,3 +22,8 @@
     left: 1em;
     font-size: 0.5em;
 }
+
+.reveal pre code {
+    max-height: none;
+    padding: 15px;
+}
